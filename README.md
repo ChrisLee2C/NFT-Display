@@ -1,6 +1,8 @@
 # NFT-Display
 <strong>This project used Siccity GLTFUtility, NewtonSoft and Opensea API V2 to import OpenSea Assets in Unity at RunTime.</strong><br>
 Since Unity does not support gltf while opensea does not support fbx, we need to convert the fetched gltf from opensea to fbx in Unity.<br>
+---
+Here are the links to the resources used.<br>
 1. Sicitty GLTFUtility<br>
 https://github.com/Siccity/GLTFUtility
 2. NewtonSoft<br>
@@ -8,7 +10,7 @@ https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@2.0/manual/ind
 3. Opensea API<br>
 https://docs.opensea.io/reference/api-overview
 ---
-There are two types of assets imported from OpenSea, image and 3D model.<br>
+There are two types of assets imported from OpenSea in this project, image and 3D model.<br>
 How to import:
 ---
 An Image
